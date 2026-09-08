@@ -1,0 +1,18 @@
+# Python bytecode / virtualenvs
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Development scratch -- experiment scripts, archived sound recipes and
+# pre-annotation snapshots. Useful locally, not part of the shipped project.
+_trash_20260903/
+_archive_backup/
+
+# Junk that NVIDIA's driver drops into whatever directory Python runs from
+NVIDIA Corporation/
+
+# OS cruft
+.DS_Store
+Thumbs.db
