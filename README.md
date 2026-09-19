@@ -7,7 +7,7 @@ evolved from scratch*: the network starts with zero hidden neurons and no connec
 whichever structure survives. You can watch the whole thing happen: the HUD draws the live network of the
 current leader next to the car it is steering.
 
-> Demo: [`Demo Video.mp4`](./Demo%20Video.mp4)
+> Demo: [Watch on YouTube](https://www.youtube.com/watch?v=gHnUnb1GFCk) (local copy: [`Demo Video.mp4`](./Demo%20Video.mp4))
 
 ---
 
